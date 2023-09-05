@@ -1,6 +1,7 @@
-# Demo file for inner file
-In this file, you should describe the content of the folder. For example, in this case, we could state that:
+# Estructura carpeta "M1_Statistics"
+En esta carpeta se encuentran los archivos correspondientes al momento de retroalimentacion de las 2 evidencias del modulo 1 - Estadistica. Dentro de esta carpeta se encuentran 2 sub-carpetas correspondientes a cada una de estas entregas las cuales contienen los archivos que componen cada entrega:
+ * **README.md:** Este archivo
+ * **Ev_01:** Tecnicas de procesamiento de datos para el analisis estadistico
+ * **Ev_02:** Construccion de un modelo estadistico base
 
-This folder contains the files related to the deliverables from the Statistics module. The following files are to be graded: 
 
- * **Evidence 01: ML from scratch** Please review file **Ev_01/dummyFile.txt**
